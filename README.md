@@ -5,7 +5,7 @@ Relase Descarga : "Relase" (https://github.com/xyvenqorix/PortYuGiOhPC/releases)
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20PC-blue?style=for-the-badge&logo=windows" alt="Platform Windows">
   <img src="https://img.shields.io/badge/Status-Lanzamiento%20Oficial-success?style=for-the-badge" alt="Status">
-</p>Esta es la experiencia clásica de Yu-Gi-Oh! Forbidden Memories adaptada para PC mediante un lanzador dedicado. Disfruta de los duelos clásicos con una interfaz sencilla, inicio directo y soporte de pantalla completa. ¡Solo descarga, descomprime y prepárate para jugar!
+</p>Esta es la experiencia clásica de Yu-Gi-Oh! Forbidden Memories adaptada para PC mediante un lanzador dedicado. El proyecto incluye una interfaz sencilla para iniciar el juego, con carga automática de los componentes necesarios y soporte de pantalla completa. ¡Solo descarga, descomprime y prepárate para los duelos!
 
 ---
 
@@ -17,10 +17,10 @@ Relase Descarga : "Relase" (https://github.com/xyvenqorix/PortYuGiOhPC/releases)
 
 ✨ Características Principales
 
-- Launcher Dedicado: El archivo descargado incluye el lanzador listo para utilizar.
-- Ejecutable Directo (".exe"): Inicia el juego desde Windows fácilmente.
-- Inicio Automático: Carga los componentes necesarios para ejecutar el juego.
-- Sistema de Caché: Guarda los componentes descargados para reutilizarlos posteriormente.
+- Launcher Dedicado: Interfaz gráfica para iniciar el juego fácilmente.
+- Ejecutable Directo (".exe"): Sin instalaciones complicadas ni pasos previos.
+- Carga Automática: Descarga los componentes necesarios para ejecutar el juego.
+- Sistema de Caché: Guarda los archivos descargados para reutilizarlos posteriormente.
 - Soporte de Pantalla Completa: Disfruta de los duelos en pantalla completa.
 
 ---
@@ -35,9 +35,8 @@ Es muy sencillo:
 4. Presiona el botón INICIAR DUELO.
 5. ¡Disfruta! (Puedes salir rápidamente presionando la tecla F4).
 
+
 ---
-
-
 
 🌐 Enlaces Oficiales
 
