@@ -12,7 +12,7 @@ Esta es la experiencia clásica de **Yu-Gi-Oh! Forbidden Memories** adaptada par
 ## 🖼️ Vista Previa
 
 <p align="center">
-  <img src="https://i.ibb.co/nM34dZHt/Gemini-Generated-Image-71y4jg71y4jg71y4.jpg" alt="Captura del Launcher en PC" width="85%"/>
+  <img src="https://i.postimg.cc/Hn490bYY/Gemini-Generated-Image-bd3zn7bd3zn7bd3z.jpg" alt="Captura del Launcher en PC" width="85%"/>
 </p>
 
 ---
