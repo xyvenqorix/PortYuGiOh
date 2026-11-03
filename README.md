@@ -1,5 +1,5 @@
 # 🎮 Yu-Gi-Oh! Forbidden Memories - PC Launcher
-**Relase Descarga :** [Relase](https://github.com/xyvenqorix/PortYuGiOhPC/releases)
+**Relase Descarga :** [Relase](https://github.com/xyvenqorix/PortYuGiOh/releases/tag/Yu-Gi-Oh!ForbiddenMemories1.0beta/releases)
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%20PC-blue?style=for-the-badge&logo=windows" alt="Platform Windows">
   <img src="https://img.shields.io/badge/Status-Lanzamiento%20Oficial-success?style=for-the-badge" alt="Status">
